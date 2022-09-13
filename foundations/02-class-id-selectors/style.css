@@ -1,0 +1,21 @@
+.odd {
+    background-color: #ff0055;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+#num1 {
+    color: hsl(240, 97%, 29%);
+    font-size: 36px;
+    
+}
+
+.odd.font {
+    font-size: 24px;
+}
+
+#num2 {
+    background-color: #3ae010;
+    font-size: 24px;
+    font-weight: 900;
+}
